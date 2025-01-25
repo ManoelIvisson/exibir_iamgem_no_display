@@ -23,7 +23,7 @@ Para convertemos a imagem em código podemos utilizar o site [image2cpp](https:/
 
 ## 3 - Adicionar o código hexadecimal ao arquivo .c
 
-Utilize o repositório do display da placa [Bitdoglab](https://github.com/BitDogLab/BitDogLab-C/tree/main/display_oled) ou use o template desse repositório, em seguida apenas troque os códigos hexadecimais pelos os que foram gerados anteriormente.
+Utilize o repositório do display da placa [Bitdoglab](https://github.com/BitDogLab/BitDogLab-C/tree/main/display_oled) ou use o template desse repositório, em seguida apenas troque os códigos hexadecimais pelos os que foram gerados anteriormente e compile o código.
 
 ## 4 - Resultado
 https://github.com/user-attachments/assets/52d5340c-c8f4-4b46-bc6e-3da3f055bed3
