@@ -19,4 +19,11 @@ Para convertemos a imagem em código podemos utilizar o site [image2cpp](https:/
 3. Configure a saída, utilize o formato Arduino Code, modo de desenho na horizontal - 1 bit per pixel e troque os bits por byte:  
    ![Captura de Tela (90)](https://github.com/user-attachments/assets/623dc8e6-c92c-4d7d-a000-8d51bb76a6a8)
 
-4. Gere o código e copie apenas os códigos 0x00
+4. Gere o código e copie apenas o código hexadecimal.
+
+## 3 - Adicionar o código hexadecimal ao arquivo .c
+
+Utilize o repositório do display da placa [Bitdoglab](https://github.com/BitDogLab/BitDogLab-C/tree/main/display_oled) ou use o template desse repositório, em seguida apenas troque os códigos hexadecimais pelos os que foram gerados anteriormente.
+
+## 4 - Resultado
+https://github.com/user-attachments/assets/52d5340c-c8f4-4b46-bc6e-3da3f055bed3
